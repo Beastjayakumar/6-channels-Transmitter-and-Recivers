@@ -1,0 +1,8 @@
+1.    Arduino Nano      (X2).
+2.     NRF24L01 Wireless Transceiver     (X2).
+3.     Adapter Board for NRF24L01 Wireless Module   (X2)..
+4.     PS2 Joystick Module    (X2).
+5.     Potentiometer 10 kΩ    (X2).
+6.    100 μF Capacitor (16 V or above)    (X2).
+7.     9V Nippo battery.
+8.     Orange Li-ion battery   (7.4V). 
